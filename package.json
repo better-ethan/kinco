@@ -1,0 +1,19 @@
+{
+  "name": "kinco",
+  "version": "0.0.13",
+  "description": "kinco iot open api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kinco",
+    "open",
+    "api"
+  ],
+  "author": "better-ethan",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
