@@ -3,6 +3,10 @@
   "version": "0.0.13",
   "description": "kinco iot open api",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/better-ethan/kinco.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
