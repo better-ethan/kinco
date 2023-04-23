@@ -1,6 +1,6 @@
 {
   "name": "kinco",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "kinco iot open api",
   "main": "index.js",
   "repository": {
