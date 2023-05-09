@@ -34,4 +34,12 @@ const errors = await kincoApi.getMachineErrors({
     page_no: 0,
     page_size: 10,
 });
+
+//设备配置参数下发
+const response = await kincoApi.setMachine({
+    mach_no: 'your machine no',
+    mach_kv: {
+        'lock': 1, // 参数键值对
+    }
+});
 ```
