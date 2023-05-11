@@ -38,7 +38,7 @@ const errors = await kincoApi.getMachineErrors({
 //设备配置参数下发
 const response = await kincoApi.setMachine({
     mach_no: 'your machine no',
-    mach_kv: {
+    mach_ixs: {
         'lock': 1, // 参数键值对
     }
 });
